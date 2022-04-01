@@ -1,0 +1,14 @@
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\bin\Debug\netcoreapp3.1\HomeWork6 (abstract class).exe
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\bin\Debug\netcoreapp3.1\HomeWork6 (abstract class).deps.json
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\bin\Debug\netcoreapp3.1\HomeWork6 (abstract class).runtimeconfig.json
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\bin\Debug\netcoreapp3.1\HomeWork6 (abstract class).runtimeconfig.dev.json
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\bin\Debug\netcoreapp3.1\HomeWork6 (abstract class).dll
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\bin\Debug\netcoreapp3.1\HomeWork6 (abstract class).pdb
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\obj\Debug\netcoreapp3.1\HomeWork6 (abstract class).csproj.AssemblyReference.cache
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\obj\Debug\netcoreapp3.1\HomeWork6 (abstract class).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\obj\Debug\netcoreapp3.1\HomeWork6 (abstract class).AssemblyInfoInputs.cache
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\obj\Debug\netcoreapp3.1\HomeWork6 (abstract class).AssemblyInfo.cs
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\obj\Debug\netcoreapp3.1\HomeWork6 (abstract class).csproj.CoreCompileInputs.cache
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\obj\Debug\netcoreapp3.1\HomeWork6 (abstract class).dll
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\obj\Debug\netcoreapp3.1\HomeWork6 (abstract class).pdb
+C:\Users\annakamenschikova\source\repos\HomeWork6 (abstract class)\HomeWork6 (abstract class)\obj\Debug\netcoreapp3.1\HomeWork6 (abstract class).genruntimeconfig.cache
