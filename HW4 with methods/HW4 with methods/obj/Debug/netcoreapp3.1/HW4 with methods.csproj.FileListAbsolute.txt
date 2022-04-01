@@ -1,0 +1,14 @@
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\bin\Debug\netcoreapp3.1\HW4 with methods.exe
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\bin\Debug\netcoreapp3.1\HW4 with methods.deps.json
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\bin\Debug\netcoreapp3.1\HW4 with methods.runtimeconfig.json
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\bin\Debug\netcoreapp3.1\HW4 with methods.runtimeconfig.dev.json
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\bin\Debug\netcoreapp3.1\HW4 with methods.dll
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\bin\Debug\netcoreapp3.1\HW4 with methods.pdb
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\obj\Debug\netcoreapp3.1\HW4 with methods.csproj.AssemblyReference.cache
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\obj\Debug\netcoreapp3.1\HW4 with methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\obj\Debug\netcoreapp3.1\HW4 with methods.AssemblyInfoInputs.cache
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\obj\Debug\netcoreapp3.1\HW4 with methods.AssemblyInfo.cs
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\obj\Debug\netcoreapp3.1\HW4 with methods.csproj.CoreCompileInputs.cache
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\obj\Debug\netcoreapp3.1\HW4 with methods.dll
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\obj\Debug\netcoreapp3.1\HW4 with methods.pdb
+C:\Users\annakamenschikova\source\repos\HW4 with methods\HW4 with methods\obj\Debug\netcoreapp3.1\HW4 with methods.genruntimeconfig.cache
