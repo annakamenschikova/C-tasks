@@ -1,0 +1,14 @@
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\bin\Debug\netcoreapp3.1\HomeWork5 (class Book).exe
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\bin\Debug\netcoreapp3.1\HomeWork5 (class Book).deps.json
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\bin\Debug\netcoreapp3.1\HomeWork5 (class Book).runtimeconfig.json
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\bin\Debug\netcoreapp3.1\HomeWork5 (class Book).runtimeconfig.dev.json
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\bin\Debug\netcoreapp3.1\HomeWork5 (class Book).dll
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\bin\Debug\netcoreapp3.1\HomeWork5 (class Book).pdb
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\obj\Debug\netcoreapp3.1\HomeWork5 (class Book).csproj.AssemblyReference.cache
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\obj\Debug\netcoreapp3.1\HomeWork5 (class Book).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\obj\Debug\netcoreapp3.1\HomeWork5 (class Book).AssemblyInfoInputs.cache
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\obj\Debug\netcoreapp3.1\HomeWork5 (class Book).AssemblyInfo.cs
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\obj\Debug\netcoreapp3.1\HomeWork5 (class Book).csproj.CoreCompileInputs.cache
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\obj\Debug\netcoreapp3.1\HomeWork5 (class Book).dll
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\obj\Debug\netcoreapp3.1\HomeWork5 (class Book).pdb
+C:\Users\annakamenschikova\source\repos\HomeWork5 (class Book)\HomeWork5 (class Book)\obj\Debug\netcoreapp3.1\HomeWork5 (class Book).genruntimeconfig.cache
