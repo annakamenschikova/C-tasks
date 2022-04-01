@@ -1,0 +1,14 @@
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\bin\Debug\netcoreapp3.1\WexTestProject1.exe
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\bin\Debug\netcoreapp3.1\WexTestProject1.deps.json
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\bin\Debug\netcoreapp3.1\WexTestProject1.runtimeconfig.json
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\bin\Debug\netcoreapp3.1\WexTestProject1.runtimeconfig.dev.json
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\bin\Debug\netcoreapp3.1\WexTestProject1.dll
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\bin\Debug\netcoreapp3.1\WexTestProject1.pdb
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\obj\Debug\netcoreapp3.1\WexTestProject1.csproj.AssemblyReference.cache
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\obj\Debug\netcoreapp3.1\WexTestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\obj\Debug\netcoreapp3.1\WexTestProject1.AssemblyInfoInputs.cache
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\obj\Debug\netcoreapp3.1\WexTestProject1.AssemblyInfo.cs
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\obj\Debug\netcoreapp3.1\WexTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\obj\Debug\netcoreapp3.1\WexTestProject1.dll
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\obj\Debug\netcoreapp3.1\WexTestProject1.pdb
+C:\Users\annakamenschikova\source\repos\WexTestProject1\WexTestProject1\obj\Debug\netcoreapp3.1\WexTestProject1.genruntimeconfig.cache
