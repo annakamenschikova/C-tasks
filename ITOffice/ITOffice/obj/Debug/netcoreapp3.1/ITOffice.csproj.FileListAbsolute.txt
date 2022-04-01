@@ -1,0 +1,14 @@
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\obj\Debug\netcoreapp3.1\ITOffice.csproj.AssemblyReference.cache
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\obj\Debug\netcoreapp3.1\ITOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\obj\Debug\netcoreapp3.1\ITOffice.AssemblyInfoInputs.cache
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\obj\Debug\netcoreapp3.1\ITOffice.AssemblyInfo.cs
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\obj\Debug\netcoreapp3.1\ITOffice.csproj.CoreCompileInputs.cache
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\bin\Debug\netcoreapp3.1\ITOffice.exe
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\bin\Debug\netcoreapp3.1\ITOffice.deps.json
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\bin\Debug\netcoreapp3.1\ITOffice.runtimeconfig.json
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\bin\Debug\netcoreapp3.1\ITOffice.runtimeconfig.dev.json
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\bin\Debug\netcoreapp3.1\ITOffice.dll
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\bin\Debug\netcoreapp3.1\ITOffice.pdb
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\obj\Debug\netcoreapp3.1\ITOffice.dll
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\obj\Debug\netcoreapp3.1\ITOffice.pdb
+C:\Users\annakamenschikova\source\repos\ITOffice\ITOffice\obj\Debug\netcoreapp3.1\ITOffice.genruntimeconfig.cache
